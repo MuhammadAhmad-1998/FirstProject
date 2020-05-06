@@ -1,0 +1,22 @@
+.box, .box2, .box3 {
+  width: 100%;
+  height: 200px;
+  margin-bottom: 10px;
+  font-size: 24px;
+  font-weight: 800;
+  font-family: fantasy;
+  text-align: center;
+}
+
+.box {
+  background-color: lightblue;
+}
+
+.box2 {
+  background-color: #27659c;
+}
+
+.box3 {
+  background-color: lightgrey;
+}
+/*# sourceMappingURL=style.css.map */
